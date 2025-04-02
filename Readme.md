@@ -1,6 +1,6 @@
-# Dev Journey 📖🚀  
+# Learn_Tech_Skills 📖🚀  
 
-Welcome to **Dev Journey**, a structured repository documenting key concepts, best practices, and advanced topics in web development. This repository serves as a collection of **notes, guides, and structured learning materials** for developers.  
+Welcome to **Learn_Tech_Skills**, a structured repository documenting key concepts, best practices, and advanced topics in web development. This repository serves as a collection of **notes, guides, and structured learning materials** for developers.  
 
 ---
 
